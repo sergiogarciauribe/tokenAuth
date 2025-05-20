@@ -1,0 +1,16 @@
+[Wednesday20252025-05-14T04:15:59+02:00amWednesday0420255931] No se pudo establecer conexión con la base de datosUnknown database 'ejemplo_desarrollo'
+[Wednesday20252025-05-14T04:16:43+02:00amWednesday0420254331] Ocurrió una excepción al intenter loguear el usuario: Table 'usuarios.usuarios' doesn't exist
+[Wednesday20252025-05-14T04:17:25+02:00amWednesday0420252531] Ocurrió una excepción al intenter loguear el usuario: Unknown column 'contrasena' in 'field list'
+[Wednesday20252025-05-14T04:23:39+02:00amWednesday0420253931] No se pudo establecer conexión con la base de datosAccess denied for user 'securits'@'localhost' (using password: YES)
+[Wednesday20252025-05-14T04:23:45+02:00amWednesday0420254531] No se pudo establecer conexión con la base de datosAccess denied for user 'securits'@'localhost' (using password: YES)
+[Wednesday20252025-05-14T04:23:52+02:00amWednesday0420255231] No se pudo establecer conexión con la base de datosAccess denied for user 'securits'@'localhost' (using password: YES)
+[Wednesday20252025-05-14T04:23:56+02:00amWednesday0420255631] No se pudo establecer conexión con la base de datosAccess denied for user 'securits'@'localhost' (using password: YES)
+[Wednesday20252025-05-14T04:24:20+02:00amWednesday0420252031] No se pudo establecer conexión con la base de datosAccess denied for user 'securits'@'localhost' (using password: YES)
+[Wednesday20252025-05-14T04:26:14+02:00amWednesday0420251431] No se pudo establecer conexión con la base de datosAccess denied for user 'securits'@'localhost' (using password: YES)
+[Wednesday20252025-05-14T04:26:19+02:00amWednesday0420251931] No se pudo establecer conexión con la base de datosAccess denied for user 'securits'@'localhost' (using password: YES)
+[Sunday20252025-05-18T16:57:01+02:00pmSunday0420250131] No se pudo establecer conexión con la base de datosNo connection could be made because the target machine actively refused it
+[Sunday20252025-05-18T16:57:10+02:00pmSunday0420251031] No se pudo establecer conexión con la base de datosNo connection could be made because the target machine actively refused it
+[Sunday20252025-05-18T16:57:50+02:00pmSunday0420255031] No se pudo establecer conexión con la base de datosNo connection could be made because the target machine actively refused it
+[Sunday20252025-05-18T16:57:56+02:00pmSunday0420255631] No se pudo establecer conexión con la base de datosNo connection could be made because the target machine actively refused it
+[Sunday20252025-05-18T16:58:04+02:00pmSunday0420250431] No se pudo establecer conexión con la base de datosNo connection could be made because the target machine actively refused it
+[Sunday20252025-05-18T16:58:44+02:00pmSunday0420254431] Ocurrió una excepción al intenter loguear el usuario: Unknown column 'passwor' in 'field list'
